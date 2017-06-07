@@ -2,7 +2,7 @@
 //  UserAdapter.h
 //  TableView_Adapter_Demo
 //
-//  Created by 崔民浩 on 17/6/8.
+//  Created by Hikky on 17/6/8.
 //  Copyright © 2017年 MH. All rights reserved.
 //
 
